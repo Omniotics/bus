@@ -1,0 +1,6 @@
+paths:
+  - name: foundation
+    description: Introduces core ideas about misdirected fear and plurality.
+    modules:
+      - omni-0100-msam-homophobia
+      - omni-0200-plurality-empathy
